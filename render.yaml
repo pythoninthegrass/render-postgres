@@ -1,6 +1,9 @@
 databases:
   - name: postgres-db
-    plan: free
+    user: sa                                                # optional
+    region: ohio                                            # oregon, ohio, frankfurt, or singapore
+    postgresMajorVersion: 15                                # 12/13/14/15
+    plan: free                                              # free/starter/standard
     ipAllowList:
       - source: 0.0.0.0/0
         description: from anywhere
