@@ -2,7 +2,7 @@
 
 ## Deploy
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/pythoninthegrass/postgres)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/pythoninthegrass/render-postgres)
 
 ## Caveats
 
